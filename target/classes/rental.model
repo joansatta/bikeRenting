@@ -1,0 +1,3 @@
+name=rentalByHour,priceByTimeUnit=5,rentalPeriodInHours=1,
+name=rentalByDay,priceByTimeUnit=20,rentalPeriodInHours=24,
+name=rentalByWeek,priceByTimeUnit=60,rentalPeriodInHours=168,
