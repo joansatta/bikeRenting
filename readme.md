@@ -15,12 +15,20 @@ Tests
 Since this is a simple project, only one test file was created with the following use cases:
 
 Calculate return time: calculates return date of a potentially rented bike given a rent mode and a time unit.
+
 Calculate price: calculates price of a potentially rented bike given a rent mode and a time unit.
+
 Rent bike
+
 Rent and return bike
+
 Rent and return bike late: simulates a late return of a rented bike. The method throws an exception
+
 Rent and return bike with not enough money: simulates that a bike is returned and the money paid is less than the expected amount. The method throws an exception.
+
 Family rental
+
 Family rental not enough stock: simulates that the amount of bikes that need to be rented is bigger than the number of bikes available. The method throws an exception.
+
 Family rental wrong number: simulates that the number of bikes that need to be rented is different from 3, 4 and 5. The method throws an exception.
 
